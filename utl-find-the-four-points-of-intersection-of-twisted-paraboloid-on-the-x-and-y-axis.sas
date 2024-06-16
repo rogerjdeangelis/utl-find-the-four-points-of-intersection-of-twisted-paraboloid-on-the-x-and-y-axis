@@ -24,7 +24,7 @@
                (0,y) = (0,1)
                (0,y) = (0,-1)
 
-         Use sympy to solve for the 2 points on the x axis that intersect the line y axis
+         Use sympy to solve for the 2 points on the y axis that intersect the y axis
 
              x= -exp(-LambertW(4)/2) or +exp(-LambertW(4)/2)
 
